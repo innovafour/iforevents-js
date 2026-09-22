@@ -1,3 +1,5 @@
+> **Moved.** This SDK now lives in [innovafour/iforevents-sdks](https://github.com/innovafour/iforevents-sdks/tree/main/js). This repository is archived.
+
 # IForevents SDKs for JavaScript
 
 Analytics SDKs for every JavaScript runtime, built on one core and the same
